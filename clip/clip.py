@@ -43,7 +43,7 @@ _MODELS = {
 }
 
 
-def _download(url: str, root: str = '/fs/scratch/rb_bd_dlp_rng-dl01_cr_AIM_employees/qic2rng'):
+def _download(url: str, root: str = '/data1/sunny/model'):
     os.makedirs(root, exist_ok=True)
     filename = os.path.basename(url)
 

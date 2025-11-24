@@ -1,0 +1,317 @@
+
+Initializing model...
+Loading CLIP (backbone: ViT-B/16)
+Building custom CLIP
+Initial context: "X X X X"
+Number of context words (tokens): 4
+Turning off gradients in both the image and the text encoder
+Parameters to be updated: {'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm_context.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.0.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.0.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.out_proj.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.1.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.3.weight', 'prompt_learner.meta_net.soft_prompt', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm_context.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.in_proj_weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.in_proj_bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.1.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.out_proj.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.3.bias'}
+Reading split from /data1/sunny/FedTPG/data/caltech-101/split_zhou_Caltech101.json
+Loading CLIP (backbone: ViT-B/16)
+Building custom CLIP
+Initial context: "X X X X"
+Number of context words (tokens): 4
+Turning off gradients in both the image and the text encoder
+Parameters to be updated: {'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm_context.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.0.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.0.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.out_proj.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.1.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.3.weight', 'prompt_learner.meta_net.soft_prompt', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm_context.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.in_proj_weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.in_proj_bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.1.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.out_proj.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.3.bias'}
+Reading split from /data1/sunny/FedTPG/data/caltech-101/split_zhou_Caltech101.json
+Loading CLIP (backbone: ViT-B/16)
+Building custom CLIP
+Initial context: "X X X X"
+Number of context words (tokens): 4
+Turning off gradients in both the image and the text encoder
+Parameters to be updated: {'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm_context.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.0.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.0.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.out_proj.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.1.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.3.weight', 'prompt_learner.meta_net.soft_prompt', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm_context.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.in_proj_weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.in_proj_bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.1.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.out_proj.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.3.bias'}
+Reading split from /data1/sunny/FedTPG/data/oxford_flowers/split_zhou_OxfordFlowers.json
+Loading CLIP (backbone: ViT-B/16)
+Building custom CLIP
+Initial context: "X X X X"
+Number of context words (tokens): 4
+Turning off gradients in both the image and the text encoder
+Parameters to be updated: {'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm_context.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.0.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.0.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.out_proj.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.1.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.3.weight', 'prompt_learner.meta_net.soft_prompt', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm_context.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.in_proj_weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.in_proj_bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.1.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.out_proj.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.3.bias'}
+Reading split from /data1/sunny/FedTPG/data/oxford_flowers/split_zhou_OxfordFlowers.json
+Loading CLIP (backbone: ViT-B/16)
+Building custom CLIP
+Initial context: "X X X X"
+Number of context words (tokens): 4
+Turning off gradients in both the image and the text encoder
+Parameters to be updated: {'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm_context.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.0.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.0.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.out_proj.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.1.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.3.weight', 'prompt_learner.meta_net.soft_prompt', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm_context.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.in_proj_weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.in_proj_bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.1.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.out_proj.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.3.bias'}
+Reading split from /data1/sunny/FedTPG/data/oxford_flowers/split_zhou_OxfordFlowers.json
+Loading CLIP (backbone: ViT-B/16)
+Building custom CLIP
+Initial context: "X X X X"
+Number of context words (tokens): 4
+Turning off gradients in both the image and the text encoder
+Parameters to be updated: {'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm_context.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.0.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.0.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.out_proj.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.1.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.3.weight', 'prompt_learner.meta_net.soft_prompt', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm_context.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.in_proj_weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.in_proj_bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.1.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.out_proj.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.3.bias'}
+Loading CLIP (backbone: ViT-B/16)
+Building custom CLIP
+Initial context: "X X X X"
+Number of context words (tokens): 4
+Turning off gradients in both the image and the text encoder
+Parameters to be updated: {'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm_context.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.0.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.0.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.out_proj.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.1.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.3.weight', 'prompt_learner.meta_net.soft_prompt', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm_context.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.in_proj_weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.in_proj_bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.1.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.out_proj.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.3.bias'}
+Loading CLIP (backbone: ViT-B/16)
+Building custom CLIP
+Initial context: "X X X X"
+Number of context words (tokens): 4
+Turning off gradients in both the image and the text encoder
+Parameters to be updated: {'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm_context.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.0.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.0.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.out_proj.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.1.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.3.weight', 'prompt_learner.meta_net.soft_prompt', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm_context.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.in_proj_weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.in_proj_bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.1.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.out_proj.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.3.bias'}
+Reading split from /data1/sunny/FedTPG/data/oxford_pets/split_zhou_OxfordPets.json
+Loading CLIP (backbone: ViT-B/16)
+Building custom CLIP
+Initial context: "X X X X"
+Number of context words (tokens): 4
+Turning off gradients in both the image and the text encoder
+Parameters to be updated: {'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm_context.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.0.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.0.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.out_proj.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.1.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.3.weight', 'prompt_learner.meta_net.soft_prompt', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm_context.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.in_proj_weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.in_proj_bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.1.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.out_proj.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.3.bias'}
+Reading split from /data1/sunny/FedTPG/data/food-101/split_zhou_Food101.json
+Loading CLIP (backbone: ViT-B/16)
+Building custom CLIP
+Initial context: "X X X X"
+Number of context words (tokens): 4
+Turning off gradients in both the image and the text encoder
+Parameters to be updated: {'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm_context.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.0.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.0.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.out_proj.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.1.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.3.weight', 'prompt_learner.meta_net.soft_prompt', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm_context.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.in_proj_weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.in_proj_bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.1.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.out_proj.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.3.bias'}
+Reading split from /data1/sunny/FedTPG/data/food-101/split_zhou_Food101.json
+Loading CLIP (backbone: ViT-B/16)
+Building custom CLIP
+Initial context: "X X X X"
+Number of context words (tokens): 4
+Turning off gradients in both the image and the text encoder
+Parameters to be updated: {'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm_context.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.0.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.0.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.out_proj.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.1.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.3.weight', 'prompt_learner.meta_net.soft_prompt', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm_context.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.in_proj_weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.in_proj_bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.1.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.out_proj.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.3.bias'}
+Reading split from /data1/sunny/FedTPG/data/food-101/split_zhou_Food101.json
+Loading CLIP (backbone: ViT-B/16)
+Building custom CLIP
+Initial context: "X X X X"
+Number of context words (tokens): 4
+Turning off gradients in both the image and the text encoder
+Parameters to be updated: {'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm_context.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.0.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.0.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.out_proj.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.1.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.3.weight', 'prompt_learner.meta_net.soft_prompt', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm_context.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.in_proj_weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.in_proj_bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.1.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.out_proj.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.3.bias'}
+Reading split from /data1/sunny/FedTPG/data/dtd/split_zhou_DescribableTextures.json
+Loading CLIP (backbone: ViT-B/16)
+Building custom CLIP
+Initial context: "X X X X"
+Number of context words (tokens): 4
+Turning off gradients in both the image and the text encoder
+Parameters to be updated: {'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm_context.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.0.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.0.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.out_proj.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.1.bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.3.weight', 'prompt_learner.meta_net.soft_prompt', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.norm_context.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.in_proj_weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.in_proj_bias', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.1.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.0.fn.out_proj.weight', 'prompt_learner.meta_net.encoder.cross_attend_blocks.1.net.3.bias'}
+total number of clients:12
+
+Loading model from output/cross_cls/fedtpg/20_8/43/, epoch 500...
+Load output/cross_cls/fedtpg/20_8/43/prompt_learner/model.pth.tar-500 to prompt_learner (epoch=500)
+✓ Model loaded successfully
+
+
+================================================================================
+PHASE 1: Evaluating BASE set (seen classes)
+================================================================================
+
+================================================================================
+Detailed Evaluation on BASE set
+================================================================================
+
+Reading split from /data1/sunny/FedTPG/data/caltech-101/split_zhou_Caltech101.json
+Reading split from /data1/sunny/FedTPG/data/oxford_flowers/split_zhou_OxfordFlowers.json
+Reading split from /data1/sunny/FedTPG/data/oxford_pets/split_zhou_OxfordPets.json
+Reading split from /data1/sunny/FedTPG/data/food-101/split_zhou_Food101.json
+Reading split from /data1/sunny/FedTPG/data/dtd/split_zhou_DescribableTextures.json
+
+============================================================
+Dataset: caltech101 (base set)
+Classes: 50
+============================================================
+
+
+✓ caltech101 Results:
+  Accuracy: 96.84%
+  Top-5 Accuracy: 99.87%
+  Confidence (correct): 0.949 ± 0.110
+  Confidence (incorrect): 0.565 ± 0.202
+  Saved to: evaluation_results_detailed/base/caltech101
+
+============================================================
+Dataset: oxford_flowers (base set)
+Classes: 51
+============================================================
+
+
+✓ oxford_flowers Results:
+  Accuracy: 71.60%
+  Top-5 Accuracy: 95.73%
+  Confidence (correct): 0.811 ± 0.205
+  Confidence (incorrect): 0.574 ± 0.206
+  Saved to: evaluation_results_detailed/base/oxford_flowers
+
+============================================================
+Dataset: fgvc_aircraft (base set)
+Classes: 50
+============================================================
+
+
+✓ fgvc_aircraft Results:
+  Accuracy: 31.63%
+  Top-5 Accuracy: 71.49%
+  Confidence (correct): 0.472 ± 0.281
+  Confidence (incorrect): 0.228 ± 0.145
+  Saved to: evaluation_results_detailed/base/fgvc_aircraft
+
+============================================================
+Dataset: oxford_pets (base set)
+Classes: 19
+============================================================
+
+
+✓ oxford_pets Results:
+  Accuracy: 94.95%
+  Top-5 Accuracy: 100.00%
+  Confidence (correct): 0.934 ± 0.105
+  Confidence (incorrect): 0.682 ± 0.170
+  Saved to: evaluation_results_detailed/base/oxford_pets
+
+============================================================
+Dataset: food101 (base set)
+Classes: 51
+============================================================
+
+
+✓ food101 Results:
+  Accuracy: 89.82%
+  Top-5 Accuracy: 98.45%
+  Confidence (correct): 0.938 ± 0.125
+  Confidence (incorrect): 0.627 ± 0.203
+  Saved to: evaluation_results_detailed/base/food101
+
+============================================================
+Dataset: dtd (base set)
+Classes: 24
+============================================================
+
+
+✓ dtd Results:
+  Accuracy: 62.62%
+  Top-5 Accuracy: 88.54%
+  Confidence (correct): 0.767 ± 0.232
+  Confidence (incorrect): 0.443 ± 0.192
+  Saved to: evaluation_results_detailed/base/dtd
+
+================================================================================
+PHASE 2: Evaluating NEW set (unseen classes)
+================================================================================
+
+================================================================================
+Detailed Evaluation on NEW set
+================================================================================
+
+Reading split from /data1/sunny/FedTPG/data/caltech-101/split_zhou_Caltech101.json
+Reading split from /data1/sunny/FedTPG/data/oxford_flowers/split_zhou_OxfordFlowers.json
+Reading split from /data1/sunny/FedTPG/data/oxford_pets/split_zhou_OxfordPets.json
+Reading split from /data1/sunny/FedTPG/data/food-101/split_zhou_Food101.json
+Reading split from /data1/sunny/FedTPG/data/dtd/split_zhou_DescribableTextures.json
+
+============================================================
+Dataset: caltech101 (new set)
+Classes: 50
+============================================================
+
+
+✓ caltech101 Results:
+  Accuracy: 95.41%
+  Top-5 Accuracy: 99.78%
+  Confidence (correct): 0.967 ± 0.095
+  Confidence (incorrect): 0.725 ± 0.142
+  Saved to: evaluation_results_detailed/new/caltech101
+
+============================================================
+Dataset: oxford_flowers (new set)
+Classes: 51
+============================================================
+
+
+✓ oxford_flowers Results:
+  Accuracy: 78.30%
+  Top-5 Accuracy: 90.35%
+  Confidence (correct): 0.894 ± 0.145
+  Confidence (incorrect): 0.573 ± 0.207
+  Saved to: evaluation_results_detailed/new/oxford_flowers
+
+============================================================
+Dataset: fgvc_aircraft (new set)
+Classes: 50
+============================================================
+
+
+✓ fgvc_aircraft Results:
+  Accuracy: 35.57%
+  Top-5 Accuracy: 71.57%
+  Confidence (correct): 0.596 ± 0.263
+  Confidence (incorrect): 0.373 ± 0.152
+  Saved to: evaluation_results_detailed/new/fgvc_aircraft
+
+============================================================
+Dataset: oxford_pets (new set)
+Classes: 18
+============================================================
+
+
+✓ oxford_pets Results:
+  Accuracy: 94.57%
+  Top-5 Accuracy: 99.94%
+  Confidence (correct): 0.957 ± 0.094
+  Confidence (incorrect): 0.647 ± 0.152
+  Saved to: evaluation_results_detailed/new/oxford_pets
+
+============================================================
+Dataset: food101 (new set)
+Classes: 50
+============================================================
+
+
+✓ food101 Results:
+  Accuracy: 91.65%
+  Top-5 Accuracy: 99.07%
+  Confidence (correct): 0.941 ± 0.117
+  Confidence (incorrect): 0.647 ± 0.200
+  Saved to: evaluation_results_detailed/new/food101
+
+============================================================
+Dataset: dtd (new set)
+Classes: 23
+============================================================
+
+
+✓ dtd Results:
+  Accuracy: 60.51%
+  Top-5 Accuracy: 89.49%
+  Confidence (correct): 0.750 ± 0.227
+  Confidence (incorrect): 0.499 ± 0.203
+  Saved to: evaluation_results_detailed/new/dtd
+
+✓ All results saved to: evaluation_results_detailed/detailed_results.json
+
+================================================================================
+EVALUATION COMPLETE - SUMMARY
+================================================================================
+
+BASE Set (Seen Classes):
+----------------------------------------
+  caltech101               :  96.84%
+  oxford_flowers           :  71.60%
+  fgvc_aircraft            :  31.63%
+  oxford_pets              :  94.95%
+  food101                  :  89.82%
+  dtd                      :  62.62%
+  Average                  :  74.58%
+
+NEW Set (Unseen Classes):
+----------------------------------------
+  caltech101               :  95.41%
+  oxford_flowers           :  78.30%
+  fgvc_aircraft            :  35.57%
+  oxford_pets              :  94.57%
+  food101                  :  91.65%
+  dtd                      :  60.51%
+  Average                  :  76.00%
+
+Generalization Gap: +1.43%
+
+================================================================================
+All detailed results saved to: evaluation_results_detailed/
+================================================================================
+
+Next steps:
+1. Run visualization scripts to create plots
+2. Analyze confusion matrices and error patterns
+3. Visualize prompts and embeddings

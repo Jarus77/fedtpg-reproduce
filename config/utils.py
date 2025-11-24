@@ -27,10 +27,10 @@ def reset_cfg(cfg, args):
         cfg.TEST.SPLIT = 'all'
         cfg.DATASET.TESTNAME_SPACE =['imagenet-v2','imagenet-s','imagenet-a','imagenet-r','imagenet']
     elif args.exp_name == "cross_cls":
-        cfg.DATASET.NAME_SPACE = ['caltech101', 'oxford_flowers', 'fgvc_aircraft', 'ucf101', 'oxford_pets', 'food101', 'dtd', 'stanford_cars', 'sun397']
+        cfg.DATASET.NAME_SPACE = ['caltech101', 'oxford_flowers', 'fgvc_aircraft', 'oxford_pets', 'food101', 'dtd']
         cfg.TRAIN.SPLIT = 'base'
         cfg.TEST.SPLIT = 'base&new'
-        cfg.DATASET.TESTNAME_SPACE = ['caltech101', 'oxford_flowers', 'fgvc_aircraft', 'ucf101', 'oxford_pets', 'food101', 'dtd', 'stanford_cars', 'sun397']
+        cfg.DATASET.TESTNAME_SPACE = ['caltech101', 'oxford_flowers', 'fgvc_aircraft', 'oxford_pets', 'food101', 'dtd']
 
 
     cfg.DATASET.ROOT = args.root
